@@ -1,0 +1,14 @@
+a3f0e0e Merge pull request #1 from aoustrich/feature-Aaron-Oustrich
+0de5bb2 add new feature
+84fb6ec fix for merge
+ed6177c some new text
+6bc9e9f no new features
+49d7897 Merge branch 'features' We are merging main and features together
+abc3b30 update file_1
+964079d update new_features
+730f3a2 add empty file
+8be1184 added the gitignore
+d4d78ba added the reademe
+222ca08 made chages to file_2
+9bab698 made chages to file_1
+b403362 create new files
